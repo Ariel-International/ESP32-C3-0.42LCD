@@ -532,6 +532,6 @@ void loop(void) {
     draw_state = 0;
 
   // deley between each page
-  delay(100);
+  delay(200);
 
 }
